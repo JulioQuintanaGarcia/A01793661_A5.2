@@ -1,0 +1,3 @@
+TC1.Sales.json total cost = $2481.86
+Total sales = $2481.86
+Time Elapsed: 0.28125 seconds
